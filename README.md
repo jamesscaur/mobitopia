@@ -1,6 +1,10 @@
-# Mobitopia - a very unofficial app for cryptopia.co.nz
+# Mobitopia - a very unofficial app for Cryptopia.co.nz
 
 > Display Cryptopia's current coins, and sort by basemarket
+
+## Latest Screenshot:
+
+![v3](https://raw.githubusercontent.com/jamesscaur/mobitopia/master/v3.png)
 
 ## Build Setup
 
