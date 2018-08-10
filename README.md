@@ -4,7 +4,7 @@
 
 ## Latest Screenshot:
 
-![v3](https://raw.githubusercontent.com/jamesscaur/mobitopia/master/v3.png)
+![v3](https://raw.githubusercontent.com/jamesscaur/mobitopia/master/v3.PNG)
 
 ## Build Setup
 
