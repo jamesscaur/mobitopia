@@ -2,6 +2,14 @@
 
 > Display Cryptopia's current coins, and sort by basemarket
 
+Wunderlist 8/13/2018:
+- Integrate https://quasar-framework.org/ (thx [@ampakinetic](https://github.com/ampakinetic))
+- Store current price in localStorage & create an additional/replacement % change "since you last
+checked"
+- Allow one-time private API key import, snapshotting holdings then deleting key (store
+localStorage or otherwise)
+- Add portfolio visualization features
+
 ## Latest Screenshot:
 
 ![v3](https://raw.githubusercontent.com/jamesscaur/mobitopia/master/v3.PNG)
